@@ -4,8 +4,8 @@ Author/Project Creator: Lauren Phegley
 Contact: lphegley5@gmail.com
 Date of Creation: 2021/11/01
 
-NOTICE: The Pentagon Papers are the works of the U.S. Government. I do not claim copyright on the text files derived from the Pentagon Papers,
-but have used them for academic research under the "Fair Use" clause.
+NOTICE: The Pentagon Papers are the works of the U.S. Government.
+
 You can access the original Pentagon Paper PDFs at the National Archives: <https://www.archives.gov/research/pentagon-papers>. Please note that the National Archives files are
 photocopies of the documents, and have not been OCR'd. I have made fully avaliable the OCR'd Pentagon Paper's Text Files, which I estimate to be about 60-80% correct. 
 I used ABBYFineReader (through my University Library) to complete the OCR using the pattern recognition. The documents are not perfect, but it hopefully is better than starting from scratch. 

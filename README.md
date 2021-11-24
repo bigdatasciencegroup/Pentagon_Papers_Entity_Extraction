@@ -4,6 +4,7 @@ A natural language processing project that analyzes the U.S. government document
 Author/Project Creator: Lauren Phegley  
 Contact: lphegley5@gmail.com  
 Date of Creation: 2021/11/01
+Suggested Citation: Phegley, L. (2021). Pentagon Paper Entity Extraction. 
 
 --------------
 NOTICE: The Pentagon Papers are the works of the U.S. Government.  
@@ -24,4 +25,13 @@ I used ABBYFineReader (through my University Library) to complete the OCR using 
 - "Pentagon_Paper_Text_Files": text files that are directly taken from the OCR'd Pentagon Papers. These are not cleaned, but are avaliable so you can make decisions as to how to what information to remove or clean for your research. 
   
 ------------
-## Software
+## Software Used - Version: 
+
+Jupyter Notebook - 6.3.0  
+python - 3.8.8
+
+## Python Packages/Libraries:  
+en_core_web_sm - 3.1.0  
+numpy - 1.20.1  
+pandas - 1.2.4  
+spacy - 3.1.3

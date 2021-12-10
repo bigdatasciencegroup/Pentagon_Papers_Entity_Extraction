@@ -3,13 +3,13 @@
 A natural language processing project that analyzes the U.S. government documents "Pentagon Papers" and runs entity analysis on them.  
 Author/Project Creator: Lauren Phegley  
 Contact: lphegley5@gmail.com  
-Date of Creation: 2021/11/01
+Date of Creation: 2021/11/01  
 Suggested Citation: Phegley, L. (2021). Pentagon Paper Entity Extraction. 
 
 --------------
-NOTICE: The Pentagon Papers are the works of the U.S. Government.  
-Code License:  
-Data License: 
+NOTICE: The Pentagon Papers are the works of the U.S. Government and in the public domain.  
+Code License:  MIT License
+Data License: CC0 1.0 License
 
 ----------- 
 ## Data: 

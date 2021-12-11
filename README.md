@@ -8,7 +8,7 @@ Suggested Citation: Phegley, L. (2021). Pentagon Paper Entity Extraction.
 
 --------------
 NOTICE: The Pentagon Papers are the works of the U.S. Government and in the public domain.  
-Code License:  MIT License
+Code License:  MIT License  
 Data License: CC0 1.0 License
 
 ----------- 

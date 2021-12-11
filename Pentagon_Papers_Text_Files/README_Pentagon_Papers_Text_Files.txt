@@ -6,4 +6,4 @@ These are provided for researchers who want to have control over exactly how the
 Files: There are 48 files in total, which is one less from the original 49 Pentagon Papers. The file Pentagon-Papers-Part-IV-C-10 was statistical reports that do not make much sense when OCR'd, so this was removed.
 
 
-License: 
+License: CC0 1.0 License
